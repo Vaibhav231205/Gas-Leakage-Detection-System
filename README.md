@@ -1,10 +1,5 @@
 # Gas-Leakage-Detection-System
 IoT-based Gas Leakage Detection System using ESP32 and MQ-2 sensor to detect harmful gases in real time. The system triggers a buzzer and LED alert while sending instant mobile notifications via Blynk, providing a low-cost, efficient, and reliable safety solution for homes and industries.
-# 🚨 Gas-Leakage-Detection-System
-
-This project is an IoT-based Gas Leakage Detection System using ESP32 and MQ-2 sensor to detect harmful gases in real time. When gas is detected beyond a safe limit, the system activates a buzzer and LED while sending instant alerts to a mobile app using Blynk.
-
----
 
 # 🚨 Gas Leakage Detection System using ESP32
 
@@ -55,15 +50,15 @@ When gas is detected by the MQ-2 sensor, the ESP32 reads the value and checks it
 
 ---
 
-## 💻 Code
 
-👉 https://github.com/YOUR_USERNAME/Gas-Leakage-Detection-System/tree/main/code
+## 💻 Code
+👉 [View Full Code](code/gas_detector.ino)
 
 ---
 
 ## 🎥 Demo Video
 
-👉 https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+👉 [https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/xjpaMpA-qWw?si=T6us3RlatI4-QqaB)
 
 ---
 
